@@ -24,7 +24,7 @@
         "ghost-storage-cloudinary": "^3.0.0",
         "lyra": "github:TryGhost/lyra#main",
         "mysql": "^2.18.1",
-        "mysql2": "2.3.3"
+        "mysql2": "3.12.0"
     },
     "devDependencies": {
         "tar": "^7.4.3"
